@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AT_API.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "..\\AT_WEB\\AT_WEB.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

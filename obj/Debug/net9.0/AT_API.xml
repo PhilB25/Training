@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AT_API</name>
+    </assembly>
+    <members>
+        <member name="M:AT_API.Controllers.Authors2Controller.Index">
+            <summary>
+            Get author data by ID
+            </summary>
+            <returns> Get author data by ID</returns>
+        </member>
+        <member name="M:AT_API.Controllers.AuthorsController.Index">
+            <summary>
+            Get author data by ID
+            </summary>
+            <returns> Get author data by ID</returns>
+        </member>
+        <member name="T:AT_API.Migrations.initialMigration7">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration7.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration7.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration7.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AT_API.Migrations.initialMigration8">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration8.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration8.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration8.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AT_API.Migrations.initialMigration9">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration9.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration9.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration9.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AT_API.Migrations.initialMigration10">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration10.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration10.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AT_API.Migrations.initialMigration10.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
